@@ -36,7 +36,7 @@ Currently exploring more about backend with Golang and PostgreSQL to become a mo
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
 </a>
-<a href="https://ui.shadcn.dev/" target="_blank" rel="noreferrer">
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcn-colored.svg" width="36" height="36" alt="shadcn/ui" />
 </a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer">
