@@ -23,6 +23,7 @@ Currently exploring more about backend with Golang and PostgreSQL to become a mo
 ![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?style=flat-square)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 
 ---
 
