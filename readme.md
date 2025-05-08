@@ -28,8 +28,8 @@ Currently exploring more about backend with Golang and PostgreSQL to become a mo
 
 ### 🔗 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com)
-[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/maulana-irfan-firdian/)
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square)](https://maulanairfanfirdian.netlify.app/)
 
 ---
 
