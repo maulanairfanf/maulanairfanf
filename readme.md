@@ -7,7 +7,7 @@ Currently exploring more about backend with Golang and PostgreSQL to become a mo
 
 - 🌍 I'm based in Indonesia
 - 📫 You can contact me at [maulanairfanf@gmail.com](mailto:maulanairfanf@gmail.com)
-- 🧠 I'm currently learning Golang and system design
+- 🧠 I'm currently javascript and golang
 - ⚡ Fun fact: I enjoy building interactive UIs and animations
 
 ### 🛠️ Skills
